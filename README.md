@@ -21,7 +21,7 @@ Try it out: [app.files.md](https://app.files.md) (Beta). Main site: [files.md](h
 > Grow the software around it with an LLM.  
 > **Plain files and self-owned software can last through the ages**.  
 
-**I have been building this project for 5 years**. Consider **[supporting on GitHub 💚](https://github.com/sponsors/zakirullin)**.  
+ Consider **[supporting on GitHub 💚](https://github.com/sponsors/zakirullin)**.  
 
 You can use this app for Zettelkasten, Second Brain, Notes, Journaling, To Do lists, Checklists, and more.  
 
